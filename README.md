@@ -1,2 +1,2 @@
 # caferetia-
-este es el repositoriooo
+este es un proyecto que ayudara a los clientes a escoger un buen cafe 
